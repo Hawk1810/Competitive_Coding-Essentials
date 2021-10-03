@@ -35,11 +35,19 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 ## Steps For Contribution
 READ <a href="https://github.com/Hawk1810/Competitive_Coding-Essentials/blob/main/CONTRIBUTING.md">Contributing Guidelines</a>
 
-    1. Fork this repo
-    2. Star this repo
-    3. Add a file
-    4. commit the code
-    5. Make pull request
+
+- Fork this repository - [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+- Clone the forked repository into local space
+- Choose any problem on [LeetCode](https://www.leetcode.com/) (or choose your already solved question)
+- Paste the solution code in new file and name it in following format:
+PROBLEM_NAME.[Format of language used in your code]
+(you should also add a README.md file describing the problem for example you can look at previous code.)
+- Place your source code file in respective folder.
+- Optional - You can add comments at the start of the file, if you want to share something, like steps to run the code etc
+- Add and commit the changes. (Please do not make changes in any other file, but if you want to work on bug/improvement then add an issue first)
+
+- Generate a Pull Request (Optional: add problem name in the title and url to the problem in description). Confused how to create a pull request ? <br> [Check here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github#create-pull-request)
+- That's it, you have successfully completed your first PR contribution. Well Done!!!
 ***
 <h2 align="center">
     <p>
