@@ -33,7 +33,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 -   Anything valuable for Community.
 
 ## Steps For Contribution
-
+READ <a href="https://github.com/Hawk1810/Competitive_Coding-Essentials/blob/main/CONTRIBUTING.md">Contributing Guidelines</a>
     1. Fork this repo
     2. Star this repo
     3. Add a file
