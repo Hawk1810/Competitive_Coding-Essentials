@@ -1,4 +1,4 @@
-<h2> 4Sum</h2><h3>Medium</h3><hr><div><p>A bracket is considered to be any one of the following characters: (, ), {, }, [, or ].
+<h2>Balance brackets</h2><div><p>A bracket is considered to be any one of the following characters: (, ), {, }, [, or ].
 
 Two brackets are considered to be a matched pair if the an opening bracket (i.e., (, [, or {) occurs to the left of a closing bracket (i.e., ), ], or }) of the exact same type. There are three types of matched pairs of brackets: [], {}, and ().
 
