@@ -1,4 +1,4 @@
-<h2>15. 3Sum</h2><h3>Medium</h3><hr><div><p>Write a function to find the longest common prefix string amongst an array of strings.
+<h2>Longest Common Prefix</h2><hr><div><p>Write a function to find the longest common prefix string amongst an array of strings.
 
 If there is no common prefix, return an empty string <code> " " </code></p>
 
