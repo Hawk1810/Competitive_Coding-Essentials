@@ -23,24 +23,43 @@ Output
 Print to the first line m integers — the j-th integer should be equal to the price of the t-shirt which the j-th buyer will buy. If the j-th buyer won't buy anything, print -1.
 
 
+
 Examples:-
+
 input
 5
+
 300 200 400 500 911
+
 1 2 1 2 3
+
 2 1 3 2 1
+
 6
+
 2 3 1 2 1 1
+
 output
+
 200 400 300 500 911 -1
 
+
 input
+
 2
+
 1000000000 1
+
 1 1
+
 1 2
+
 2
+
 2 1
 
+
 output
+
 1 1000000000 
+
