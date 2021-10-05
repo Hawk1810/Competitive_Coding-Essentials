@@ -1,3 +1,9 @@
+                                                                   T-shirt buying
+  here is the link to the problem:-https://codeforces.com/contest/799/problem/B
+
+
+
+
 A new pack of n t-shirts came to a shop. Each of the t-shirts is characterized by three integers pi, ai and bi, where pi is the price of the i-th t-shirt, ai is front color of the i-th t-shirt and bi is back color of the i-th t-shirt. All values pi are distinct, and values ai and bi are integers from 1 to 3.
 
 m buyers will come to the shop. Each of them wants to buy exactly one t-shirt. For the j-th buyer we know his favorite color cj.
